@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Brexit means Breadsticks",
+  "name": "bad babies",
   "version": "0.1.4",
-  "description": "Turns every mention of Brexit on any website into 'breadsticks'",
+  "description": "Turns every mention of enfant terrible on any website into 'bad baby'",
   "icons": { "16": "images/breadsticks16.png",
            "48": "images/breadsticks48.png",
           "128": "images/breadsticks128.png" },
