@@ -4,9 +4,9 @@
   "name": "bad babies",
   "version": "0.1.4",
   "description": "Turns every mention of enfant terrible on any website into 'bad baby'",
-  "icons": { "16": "images/breadsticks16.png",
-           "48": "images/breadsticks48.png",
-          "128": "images/breadsticks128.png" },
+  "icons": { "16": "images/badbaby16.png",
+           "48": "images/badbaby48.png",
+          "128": "images/badbaby128.png" },
   "content_scripts": [
     {
     "matches": ["*://*/*"],
